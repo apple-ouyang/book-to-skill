@@ -142,6 +142,30 @@ Core principles:
 
 ---
 
+## Real Case: Gemini vs WRAP Skill — Same Decision, Different Outcomes
+
+I was struggling with a startup direction. First, I discussed it with Gemini and ChatGPT, asking them to play "devil's advocate" and ruthlessly critique my decision. Gemini wrote a long, persuasive piece concluding "you must do this, it's a blue ocean" — I wasn't planning to, but after reading Gemini's analysis it felt like I had no choice!
+
+But it never helped me answer the most critical question: **Is anyone willing to pay?**
+
+Then I re-analyzed the same decision using the `making-decisions` Skill:
+
+- **W (Widen Options)**: Pointed out I was trapped in a "do it vs don't" binary. Through the "Vanishing Options Test", I discovered a third, lighter path I hadn't considered
+- **R (Reality-Test)**: Identified that I'd spent hours gathering data and "predicting" with GPT instead of "testing". Suggested I post on social media first to validate demand
+- **A (Attain Distance)**: Recognized that "regret over missing the last wave" was driving my decision
+- **P (Prepare to Be Wrong)**: Helped me set clear tripwires, while the previous discussion had zero exit criteria
+
+| | Gemini + ChatGPT (no framework) | making-decisions Skill |
+|---|---|---|
+| Decision frame | "Do it vs don't" binary | Widened to 4+ options |
+| Core method | Persuasive argumentation | Structured analysis + case comparison |
+| Action advice | "Start building immediately" | "Post today to test demand" |
+| Exit criteria | None | Clear tripwires |
+
+AI discussions without a framework easily turn into debate competitions. With the WRAP framework, every step has a clear purpose and validation criteria.
+
+---
+
 ## Inspiration
 
 The decision Skills are extracted from Chip Heath & Dan Heath's *Decisive: How to Make Better Choices in Life and Work*. The book introduces the WRAP framework with extensive real-world cases showing how to avoid the four villains of decision-making.
